@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90C49D3B-92F9-4E31-A0CD-E2BF5A759AC7}|Crud Application DB first Approach\\Crud Application DB first Approach.csproj|c:\\users\\za seyam\\source\\repos\\crud application db first approach\\crud application db first approach\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C49D3B-92F9-4E31-A0CD-E2BF5A759AC7}|Crud Application DB first Approach\\Crud Application DB first Approach.csproj|solutionrelative:crud application db first approach\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C49D3B-92F9-4E31-A0CD-E2BF5A759AC7}|Crud Application DB first Approach\\Crud Application DB first Approach.csproj|C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\crud application db first approach\\views\\registration\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90C49D3B-92F9-4E31-A0CD-E2BF5A759AC7}|Crud Application DB first Approach\\Crud Application DB first Approach.csproj|solutionrelative:crud application db first approach\\views\\registration\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C49D3B-92F9-4E31-A0CD-E2BF5A759AC7}|Crud Application DB first Approach\\Crud Application DB first Approach.csproj|C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\crud application db first approach\\views\\registration\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90C49D3B-92F9-4E31-A0CD-E2BF5A759AC7}|Crud Application DB first Approach\\Crud Application DB first Approach.csproj|solutionrelative:crud application db first approach\\views\\registration\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C49D3B-92F9-4E31-A0CD-E2BF5A759AC7}|Crud Application DB first Approach\\Crud Application DB first Approach.csproj|C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\crud application db first approach\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90C49D3B-92F9-4E31-A0CD-E2BF5A759AC7}|Crud Application DB first Approach\\Crud Application DB first Approach.csproj|solutionrelative:crud application db first approach\\views\\registration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C49D3B-92F9-4E31-A0CD-E2BF5A759AC7}|Crud Application DB first Approach\\Crud Application DB first Approach.csproj|C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\crud application db first approach\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C49D3B-92F9-4E31-A0CD-E2BF5A759AC7}|Crud Application DB first Approach\\Crud Application DB first Approach.csproj|solutionrelative:crud application db first approach\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C49D3B-92F9-4E31-A0CD-E2BF5A759AC7}|Crud Application DB first Approach\\Crud Application DB first Approach.csproj|C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\crud application db first approach\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{90C49D3B-92F9-4E31-A0CD-E2BF5A759AC7}|Crud Application DB first Approach\\Crud Application DB first Approach.csproj|solutionrelative:crud application db first approach\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C49D3B-92F9-4E31-A0CD-E2BF5A759AC7}|Crud Application DB first Approach\\Crud Application DB first Approach.csproj|C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\crud application db first approach\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C49D3B-92F9-4E31-A0CD-E2BF5A759AC7}|Crud Application DB first Approach\\Crud Application DB first Approach.csproj|solutionrelative:crud application db first approach\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\Crud Application DB first Approach\\EF\\User.cs",
+              "RelativeDocumentMoniker": "Crud Application DB first Approach\\EF\\User.cs",
+              "ToolTip": "C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\Crud Application DB first Approach\\EF\\User.cs",
+              "RelativeToolTip": "Crud Application DB first Approach\\EF\\User.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T21:09:43.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\Crud Application DB first Approach\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "Crud Application DB first Approach\\EF\\Model1.edmx",
+              "ToolTip": "C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\Crud Application DB first Approach\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Crud Application DB first Approach\\EF\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-11-28T21:08:18.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\Crud Application DB first Approach\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "Crud Application DB first Approach\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\Crud Application DB first Approach\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "Crud Application DB first Approach\\Controllers\\RegistrationController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvx8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:33:55.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\Crud Application DB first Approach\\Views\\Registration\\Index.cshtml",
+              "RelativeDocumentMoniker": "Crud Application DB first Approach\\Views\\Registration\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\Crud Application DB first Approach\\Views\\Registration\\Index.cshtml",
+              "RelativeToolTip": "Crud Application DB first Approach\\Views\\Registration\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T20:37:07.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\Crud Application DB first Approach\\Views\\Registration\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Crud Application DB first Approach\\Views\\Registration\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\Crud Application DB first Approach\\Views\\Registration\\Edit.cshtml",
+              "RelativeToolTip": "Crud Application DB first Approach\\Views\\Registration\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T20:37:26.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\Crud Application DB first Approach\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Crud Application DB first Approach\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\Crud Application DB first Approach\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Crud Application DB first Approach\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T20:39:32.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\Crud Application DB first Approach\\Views\\Registration\\Create.cshtml",
+              "RelativeDocumentMoniker": "Crud Application DB first Approach\\Views\\Registration\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ZA SEYAM\\source\\repos\\Crud Application DB first Approach\\Crud Application DB first Approach\\Views\\Registration\\Create.cshtml",
+              "RelativeToolTip": "Crud Application DB first Approach\\Views\\Registration\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-28T20:37:17.226Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
